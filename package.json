@@ -5,6 +5,8 @@
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.1",
     "axios": "^1.2.1",
+    "dotenv": "^16.0.3",
+    "redux-persist": "^6.0.0",
     "sass": "^1.57.1"
   },
   "devDependencies": {
